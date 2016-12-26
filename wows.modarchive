@@ -1,0 +1,9 @@
+{
+	"mods": [{
+		"identifier": "4lCapwn_OTM",
+		"name": "4lCapwn's OverTargetMarkers",
+		"license": "i don't know yet",
+		"description": "OTMs with tiers and class-specific colors",
+		"home": "https://raw.githubusercontent.com/WorldofWarshipsModding/4lCapwn_OTM/master/4lCapwn_OTM.wowsmodhome"
+	}]
+}
