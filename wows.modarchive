@@ -5,5 +5,11 @@
 		"license": "i don't know yet",
 		"description": "OTMs with tiers and class-specific colors",
 		"home": "https://raw.githubusercontent.com/WorldofWarshipsModding/4lCapwn_OTM/master/4lCapwn_OTM.wowsmodhome"
+	}, {
+		"identifier": "atmaxx_minimap",
+		"name": "atmaxx' minimap",
+		"license": "i don't know yet",
+		"description": "Shipnames and target direction markers",
+		"home": "https://bb.stronk.pw/atmaxx_minimap.wowsmodhome"
 	}]
 }
