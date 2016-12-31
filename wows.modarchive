@@ -1,15 +1,17 @@
 {
 	"mods": [{
-		"identifier": "4lCapwn_OTM",
-		"name": "4lCapwn's OverTargetMarkers",
-		"license": "i don't know yet",
+		"identifier": "4lCapwn_ShipOTM",
+		"name": "4lCapwn's Ship OverTargetMarkers",
 		"description": "OTMs with tiers and class-specific colors",
-		"home": "https://raw.githubusercontent.com/WorldofWarshipsModding/4lCapwn_OTM/master/4lCapwn_OTM.wowsmodhome"
+		"author": "4lCapwn",
+		"category": "OTM",
+		"home": "https://raw.githubusercontent.com/WorldofWarshipsModding/4lCapwn_OTM/master/4lCapwn_ShipOTM.wowsmodhome"
 	}, {
 		"identifier": "atmaxx_minimap",
 		"name": "atmaxx' minimap",
-		"license": "i don't know yet",
 		"description": "Shipnames and target direction markers",
+		"author": "atmaxx",
+		"category": "minimap",
 		"home": "https://bb.stronk.pw/atmaxx_minimap.wowsmodhome"
 	}]
 }
